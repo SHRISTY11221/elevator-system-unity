@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNITY PRJS\\ELEVATOR SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D803B6-55EA-7158-BFDB-891BEEA0DDA9}|Assembly-CSharp.csproj|D:\\UNITY PRJS\\ELEVATOR SYSTEM\\assets\\scripts\\elevatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D803B6-55EA-7158-BFDB-891BEEA0DDA9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\elevatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D803B6-55EA-7158-BFDB-891BEEA0DDA9}|Assembly-CSharp.csproj|d:\\unity prjs\\elevator system\\assets\\scripts\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D803B6-55EA-7158-BFDB-891BEEA0DDA9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElevatorManager.cs",
+              "DocumentMoniker": "D:\\UNITY PRJS\\ELEVATOR SYSTEM\\Assets\\Scripts\\ElevatorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ElevatorManager.cs",
+              "ToolTip": "D:\\UNITY PRJS\\ELEVATOR SYSTEM\\Assets\\Scripts\\ElevatorManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ElevatorManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:11:15.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElevatorController.cs",
+              "DocumentMoniker": "D:\\UNITY PRJS\\ELEVATOR SYSTEM\\Assets\\Scripts\\ElevatorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ElevatorController.cs",
+              "ToolTip": "D:\\UNITY PRJS\\ELEVATOR SYSTEM\\Assets\\Scripts\\ElevatorController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ElevatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:44:28.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
